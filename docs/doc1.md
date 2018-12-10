@@ -1,8 +1,15 @@
 ---
 id: doc1
-title: Latin-ish
+title: Overview
 sidebar_label: Example Page
 ---
+
+ZLog is a distributed shared-log storage system that enforces a global ordering
+of entries in every log. The strong consistency provided makes zlog suitable for
+building applications like databases, metadata services, and replicated state
+machines.
+
+
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
